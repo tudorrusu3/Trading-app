@@ -1,0 +1,3 @@
+2
+Apple,1100
+Facebook,600
